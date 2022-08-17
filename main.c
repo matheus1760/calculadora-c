@@ -18,7 +18,8 @@ int main() {
 
     printf("Digite o segundo número: ");
     scanf("%f", &numero2);
-
+    
+    printf("-------------------\n");
     printf("O resultado é: ");
 
     if (operador == '+') {
@@ -31,7 +32,7 @@ int main() {
 	printf("%.2f", numero1 / numero2);
     }
 
-    printf("\n");
+    printf("\n-------------------\n");
 
     return 0;
 }
