@@ -1,6 +1,11 @@
 # calculadora-c
 
-Calculadora escrita em C
+Calculadora escrita em C com:
+
+- adição
+- subtração
+- multiplicação
+- divisão
 
 ## Compilação (opcional)
 
@@ -9,4 +14,3 @@ Calculadora escrita em C
 ## Execução
 
 `./main`
-
